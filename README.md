@@ -7,7 +7,9 @@
 
 - 🔍 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
 
-- 💬 Ask me about *life goals and motivational quotes*
+- 💬 Ask me about *Java Python C++*
+
+- 💯 My hobbies are playing basketball, cooking, driving, playing badminton & collecting shoes 
 
 - 📩 How to reach me *glhernandez710@gmail.com*
 
