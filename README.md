@@ -1,15 +1,15 @@
-<h1 align="center">Marhay na aldaw!👋, I'm Gio Lorenzo Hernandez</h1>
-<h3 align="center">A cloud engineer from Makati City, Philippines</h3>
+<h1 align="center">Marhay na aldaw!😬👋🫧𓇼𓏲*ੈ✩‧₊˚🎐, I'm Gio Lorenzo Hernandez</h1>
+<h3 align="center">A aspirant cloud engineer from Makati City, Philippines</h3>
 
-- 🔭 I’m currently studying on *Centro Escolar University*
+- 🏫 I’m currently studying on *Centro Escolar University*
 
-- 👯 I’m looking to collaborate on *my fellow IT/Computer Science students*
+- 🔍 I’m looking to collaborate on *my fellow IT/Computer Science students*
 
-- 🤝 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
+-  🔍 I'm looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
 
-- 💬 Ask me about *life*
+- 💬 Ask me about *life goals and motivational beliefs*
 
-- 📫 How to reach me *glhernandez710@gmail.com*
+- 📩 Reach me at my email: *glhernandez710@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
