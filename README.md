@@ -1,5 +1,5 @@
-<h1 align="center">Marhay na aldaw!👋, I'm Gio Lorenzo Hernandez</h1>
-<h3 align="center">An aspiring cloud engineer from Makati City, Philippines</h3>
+<h1 align="center">Marhay na aldaw!🫶🙋‍♂️, I'm Gio Lorenzo Hernandez</h1>
+<h3 align="center">An aspiring cloud engineer from Naga City, Philippines</h3>
 
 - 🏫 I’m currently studying on *Centro Escolar University*
 
@@ -7,7 +7,7 @@
 
 - 🔍 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
 
-- 💬 Ask me about *Java Python C++*
+- 💬 Ask me about *Java Python C++ C#*
 
 - 💯 My hobbies are playing basketball, cooking, driving, playing badminton & collecting shoes 
 
