@@ -7,7 +7,7 @@
 
 - 🔍 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
 
-- 💬 Ask me about *life*
+- 💬 Ask me about *life goals and motivational quotes*
 
 - 📩 How to reach me *glhernandez710@gmail.com*
 
