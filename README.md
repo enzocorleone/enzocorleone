@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying on *Centro Escolar University*
 
-- 🔍 I’m looking to collaborate on *my fellow IT/Computer Science students*
+- 💁‍♂️ I’m available to collaborate on *my fellow IT/Computer Science students*
 
 - 🔍 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
 
