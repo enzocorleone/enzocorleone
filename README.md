@@ -1,5 +1,5 @@
 <h1 align="center">Marhay na aldaw!👋, I'm Gio Lorenzo Hernandez</h1>
-<h3 align="center">A cloud engineer from Makati City, Philippines</h3>
+<h3 align="center">An aspiring cloud engineer from Makati City, Philippines</h3>
 
 - 🏫 I’m currently studying on *Centro Escolar University*
 
