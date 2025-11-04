@@ -1,17 +1,15 @@
-<h1 align="center">Marhay na aldaw!🫶🙋‍♂️, I'm Gio Lorenzo Hernandez</h1>
-<h3 align="center">An aspiring cloud engineer student from Naga City, Philippines</h3>
+<h1 align="center">Marhay na aldaw! 🫶🙋‍♂️ I'm Gio Lorenzo Hernandez</h1>
+<h3 align="center">Aspiring Cloud Engineer | Student from Naga City, Philippines 🇵🇭</h3>
 
-- 🏫 I’m currently studying on *Centro Escolar University*
+---
 
-- 💁‍♂️ I’m available to collaborate on *my fellow IT/Computer Science students*
+- 🎓 **Currently studying at:** *Centro Escolar University*  
+- 🤝 **Open to collaborate with:** *Fellow IT & Computer Science students*  
+- 🚀 **Learning and seeking guidance in:** *Cloud Development & Cybersecurity*  
+- 💬 **Ask me about:** *Java, Python, C++, C#, JavaScript, Tailwind, AWS*  
+- 🏀 **Hobbies:** *Basketball, Cooking, Driving, Badminton, and Collecting Shoes*  
+- 📫 **Reach me at:** *glhernandez710@gmail.com*
 
-- 🔍 I’m looking for help with *Professional Cloud Developer and Cybersecurity Analyst*
-
-- 💬 Ask me about *Java Python C++ C#*
-
-- 💯 My hobbies are playing basketball, cooking, driving, playing badminton & collecting shoes 
-
-- 📩 How to reach me *glhernandez710@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
