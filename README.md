@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 **Currently studying at:** *Centro Escolar University*  
+- 🎓 **Currently studying at:** *Centro Escolar University Manila*  
 - 🤝 **Open to collaborate with:** *Fellow IT & Computer Science students*  
 - 🚀 **Learning and seeking guidance in:** *Cloud Development & Cybersecurity*  
 - 💬 **Ask me about:** *Java, Python, C++, C#, JavaScript, Tailwind, AWS*  
